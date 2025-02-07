@@ -22,28 +22,28 @@
 <p>Data visualization and result interpretation</p>
 
 <h2>📂 Datasets Used :</h2>
-<p>Twitter Parsed</p>
-<p>Twitter Racism Parsed</p>
-<p>Twitter Sexism Parsed</p>
-<p>Kaggle Cyberbullying Datasets</p>
-<p>YouTube Comments Dataset</p>
+<li>Twitter Parsed</li>
+<li>Twitter Racism Parsed</li>
+<li>Twitter Sexism Parsed</li>
+<li>Kaggle Cyberbullying Datasets</li>
+<li>YouTube Comments Dataset</li>
 
 <h2>📊 Results & Findings :</h2>
-<p>Performance evaluation of six supervised ML models</p>
-<p>Feature importance analysis using NLP techniques</p>
-<p>Comparison of classifiers in detecting cyberbullying patterns</p>
-<p>Visualization of results (word clouds, confusion matrices, accuracy scores)</p>
+<li>Performance evaluation of six supervised ML models</li>
+<li>Feature importance analysis using NLP techniques</li>
+<li>Comparison of classifiers in detecting cyberbullying patterns</li>
+<li>Visualization of results (word clouds, confusion matrices, accuracy scores)</li>
 
 <h2>🛠 Technologies Used :</h2>
-<p>Python</p>
-<p>Machine Learning</p>
-<p>Scikit-learn</p>
-<p>Natural Language Toolkit (NLTK)</p>
-<p>Pandas & NumPy</p>
-<p>Matplotlib & Seaborn</p>
+<li>Python</li>
+<li>Machine Learning</li>
+<li>Scikit-learn</li>
+<li>Natural Language Toolkit (NLTK)</li>
+<li>Pandas & NumPy</li>
+<li>Matplotlib & Seaborn</li>
 
 <h2>🤝 Contribution</h2>
 <p>Contributions are welcome! Feel free to fork the repository, open issues, and submit pull requests.</p>
 
-📜 License
+<h2>📜 License</h2>
 <p>This project is licensed under the MIT License.</p>
