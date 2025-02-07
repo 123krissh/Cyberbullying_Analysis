@@ -8,18 +8,18 @@
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4938099"> 📄 "Analysing Cyberbullying Behavior in Social Media Using Supervised ML Algorithms and Natural Language Processing." </a>
 
 <h2> 🚀 Features</h2>
-<p>Preprocessing and feature engineering for textual data</p>
-<p>Sentiment analysis and NLP-based feature extraction</p>
+<li>Preprocessing and feature engineering for textual data</li>
+<li>Sentiment analysis and NLP-based feature extraction</li>
 
 <h3>Supervised ML models for classification:</h3>
-<p>Logistic Regression</p>
-<p>Naïve Bayes</p>
-<p>Support Vector Machine (SVM)</p>
-<p>Decision Tree</p>
-<p>Random Forest</p>
-<p>K-Nearest Neighbors (KNN)</p>
-<p>Comparative analysis of model performance</p>
-<p>Data visualization and result interpretation</p>
+<li>Logistic Regression</li>
+<li>Naïve Bayes</li>
+<li>Support Vector Machine (SVM)</li>
+<li>Decision Tree</li>
+<li>Random Forest</li>
+<li>K-Nearest Neighbors (KNN)</li>
+<li>Comparative analysis of model performance</li>
+<li>Data visualization and result interpretation</li>
 
 <h2>📂 Datasets Used :</h2>
 <li>Twitter Parsed</li>
